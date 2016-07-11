@@ -1,4 +1,6 @@
 {
+  "name": "archetypical-todo",
+  "version": "0.0.0",
   "description": "React/Redux/Immutable/TSX/Hammer todo",
   "private": true,
   "dependencies": {
